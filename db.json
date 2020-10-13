@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "store": 2,
+      "image": "https://electrolux.vteximg.com.br/arquivos/ids/192918/DF44S_frontal_electrolux_vcm_portuguese_7000px--1-.png?v=636937105980030000",
+      "description": "Geladeira Eletrolux",
+      "size": ["P", "M", "G"],
+      "color": "black metal",
+      "price": "2.899,90",
+      "promotion": false
+    },
+    {
+      "id": 2,
+      "store": 2,
+      "description": "Notebook Dell",
+      "size": ["14.5 Pl", "16 Pl"],
+      "color": "grey",
+      "price": "3.299,90",
+      "promotion": true
+    }
+  ],
+  "cart": []
+}
